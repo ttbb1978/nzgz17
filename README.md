@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=ttbb1978&color=brightgreen&base=1200">
+<img src="https://komarev.com/ghpvc/?username=ttbb1978&color=brightgreen&base=0">
 
 ![GitHub](https://hub.gitmirror.com/https://raw.githubusercontent.com/ttbb1978/ttbb1978/refs/heads/tb01/img/001t.jpg)
 
