@@ -1,5 +1,4 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=ttbb1978&label=Profile%20views&color=0e75b6&style=flat" alt="missuo"/></p>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=tbsc&label=Profile%20views&color=0e75b6&style=flat" alt="missuo" /></p>
 
 ![GitHub](https://hub.gitmirror.com/https://raw.githubusercontent.com/ttbb1978/ttbb1978/refs/heads/tb01/img/001t.jpg)
 
