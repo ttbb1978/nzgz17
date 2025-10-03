@@ -1,4 +1,4 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=ttbb1978&label=Profile%20views&color=0e75b6&style=flat" alt="missuo"/></p>
+<img src="https://komarev.com/ghpvc/?username=ttbb1978">
 
 ![GitHub](https://hub.gitmirror.com/https://raw.githubusercontent.com/ttbb1978/ttbb1978/refs/heads/tb01/img/001t.jpg)
 
