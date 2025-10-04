@@ -9,8 +9,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=ttbb1978&color=brightgreen&base=100000" width="" height=""/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ttbb1978&show_icons=true&theme=Default&locale=cn&hide=prs&rank_icon=github" alt="logo" align="right" width="450" />
-
 <img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=ttbb1978&count_private=true&show_icons=true&theme=radical&include_all_commits=true" width="411" height=""/>
 
 <img src="http://q2.qlogo.cn/headimg_dl?dst_uin=765931440&spec=640" width="100" height=""/> <img src="http://q2.qlogo.cn/headimg_dl?dst_uin=2409495157&spec=640" width="100" height=""/> <img src="http://q2.qlogo.cn/headimg_dl?dst_uin=1040458166&spec=640" width="100" height=""/>  <img src="http://q2.qlogo.cn/headimg_dl?dst_uin=2358429597&spec=640" width="100" height=""/>
