@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=ttbb1978&color=brightgreen&base=0">
 
-<img src="https://hub.gitmirror.com/https://raw.githubusercontent.com/ttbb1978/ttbb1978.github.io/refs/heads/tb01/img/002.jpg" width="100" height=""/>
+<img src="https://raw.githubusercontent.com/ttbb1978/ttbb1978.github.io/refs/heads/tb01/img/002.jpg" width="100" height=""/>
 
 ### 🚀<a href="https://tb.xyz1978.cloudns.ch">tb.xyz1978.cloudns.ch</p>
 
